@@ -26,7 +26,7 @@ header {
 }
   header > a[href] {
     text-decoration: none;
-    color: black;
+    color: #a9a9a9;
   }
   header ul {
     margin: 0;
@@ -54,4 +54,16 @@ header {
 }
 .content a[href]:hover {
   background: #ffbe76;
+}
+
+p {
+  margin: 10px auto;
+}
+
+.row {
+  display: flex;
+}
+.col2 {
+  float: left;
+  width: 50%;
 }
