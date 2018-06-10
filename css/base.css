@@ -12,19 +12,35 @@ body {
   font-size: 14px;
   letter-spacing: 0.001em;
   line-height: 20px;
+
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
 }
 
 header {
-  display: inline-block;
-}
+  display: flex;
+  justify-content: space-between;
 
-.navigation {
-  float: right;
+  margin: 30px auto;
 }
-
-.navigation a {
-  color: #535c68;
-}
-.navigation a:hover {
-  background: #ffbe76;
-}
+  header ul {
+    margin: 0;
+    text-align: left;
+    display: flex;
+  }
+  header ul li {
+    list-style: none;
+    justify-content: space-around;
+  }
+  header ul li a[href] {
+    color: #a9a9a9;
+    text-decoration: none;
+  }
+  header ul li a[href]:hover {
+    color: #444;
+  }
+  header ul li a[href].active {
+    color: #444;
+    background: #ffbe76;
+  }
