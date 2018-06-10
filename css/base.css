@@ -24,6 +24,10 @@ header {
 
   margin: 30px auto;
 }
+  header > a[href] {
+    text-decoration: none;
+    color: black;
+  }
   header ul {
     margin: 0;
     text-align: left;
@@ -31,7 +35,7 @@ header {
   }
   header ul li {
     list-style: none;
-    justify-content: space-around;
+    padding-left: 20px;
   }
   header ul li a[href] {
     color: #a9a9a9;
@@ -42,5 +46,12 @@ header {
   }
   header ul li a[href].active {
     color: #444;
-    background: #ffbe76;
   }
+.content a[href] {
+  text-decoration: none;
+  font-style: italic;
+  color: #444;
+}
+.content a[href]:hover {
+  background: #ffbe76;
+}
