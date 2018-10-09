@@ -56,8 +56,16 @@ header {
   background: #ffbe76;
 }
 
+div {
+  margin: 8px auto;
+}
+
 p {
   margin: 10px auto;
+}
+
+ul {
+  list-style-position: outside;
 }
 
 .row {
@@ -77,4 +85,11 @@ p {
 }
 .col-one-half {
   width: 50%;
+}
+
+label {
+  margin-top: 10px;
+  padding: 0 3px;
+  /* background-color: #dfe6e9; */
+  font-size: 1em;
 }

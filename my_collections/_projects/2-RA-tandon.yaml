@@ -2,9 +2,10 @@
 title: Research Assistant @ NYU Tandon School of Engineering
 dates: 2018 June - Aug
 read_more_url:
-languages:
-  - html
+skills:
   - React
+  - Redux
+  - Graphql
 description:
   Visualizing Conversation - Development of Analytical Tool to Mitigate Cyber Fraud
   <br>

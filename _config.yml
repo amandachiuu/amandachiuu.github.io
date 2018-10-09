@@ -25,6 +25,9 @@ collections:
     updates:
       output: true
 collections_dir: my_collections
+assets:
+  sources:
+    - bower_components
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

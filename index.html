@@ -11,6 +11,10 @@ layout: default
     </div>
     <div class="col-three-fourth">
       <h3>{{ project.title }}</h3>
+      {% for skill in project.skills %}
+          <label>{{ skill }}</label>
+          {% if forloop.last != true %} &#8226; {% endif %}
+      {% endfor %}
       <p>{{ project.description }}</p>
     </div>
   </div>
