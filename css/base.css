@@ -14,14 +14,13 @@ body {
   line-height: 20px;
 
   width: 100%;
-  max-width: 720px;
+  max-width: 750px;
   margin: 0 auto;
 }
 
 header {
   display: flex;
   justify-content: space-between;
-
   margin: 30px auto;
 }
   header > a[href] {
@@ -47,6 +46,7 @@ header {
   header ul li a[href].active {
     color: #444;
   }
+
 .content a[href] {
   text-decoration: none;
   font-style: italic;
@@ -63,7 +63,18 @@ p {
 .row {
   display: flex;
 }
-.col2 {
-  float: left;
+.col-one-third {
+  width: 33%;
+}
+.col-two-third {
+  width: 66%;
+}
+.col-one-fourth {
+  width: 25%;
+}
+.col-three-fourth {
+  width: 75%;
+}
+.col-one-half {
   width: 50%;
 }
