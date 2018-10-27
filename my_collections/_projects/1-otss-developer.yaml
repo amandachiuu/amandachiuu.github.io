@@ -5,7 +5,17 @@ read_more_url:
 skills:
   - React
   - Redux
-  - HTML / CSS
+  - Typescript
+  - Agile work environment
 description:
-  New York University, Information Technology Dept.
+    <p>
+    My first software engineering job was working as part of a small specialized software development team in NYU IT called Operations Technoology and Support Services (OTSS).
+    A single room full of developers, product owners, and student workers outputted some of the university's most significant software,
+    ranging from an iOS app for school-wide facilities operations to a web application for NYU financial bond analysis and management.
+    </p>
+    <p>
+    Working on a small development team allowed me to make a difference on a large scale project. The department was working on a UI remodel of
+    a capital project management site in modules. Over the course of my time on the software development team, I worked on one such module, from start to completion.
+    I became comfortable coding in Javascript with React, Redux, and Typescript in an Agile work environment.
+    </p>
 ---
