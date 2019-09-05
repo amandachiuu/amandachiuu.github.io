@@ -13,7 +13,8 @@ body {
   letter-spacing: 0.001em;
   line-height: 20px;
 
-  width: 100%;
+  flex-direction: column;
+  min-height: 100vh;
   max-width: 750px;
   margin: 0 auto;
 }
@@ -46,6 +47,9 @@ header {
   header ul li a[href].active {
     color: #444;
   }
+.content {
+  flex: 1;
+}
 
 .content a[href] {
   text-decoration: none;
@@ -86,13 +90,16 @@ ul {
 .col-one-half {
   width: 50%;
 }
-.col-one-eighth {
-  width: 12.5%;
-}
 
 label {
   margin-top: 10px;
   padding: 0 3px;
   /* background-color: #dfe6e9; */
   font-size: 1em;
+}
+
+footer {
+  height: 150px;
+  text-align: center;
+  flex-direction: column;
 }
