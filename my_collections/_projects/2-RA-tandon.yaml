@@ -17,12 +17,12 @@ description:
   <p>
   In collaboration with a team of email security specialists, we were given a large (and sensitive) text-based corpus,
   of emails between scammers and their targets. The project objective was to create a visualization that allows cyber-fraud investigators
-   to identify patterns in email-scamming activity.
+  to identify patterns in email-scamming activity.
   </p>
   <p>
   With my team's help, I created a responsive web tool that displays the temporal sequence of emails between scammers and their network (of accomplices and targets).
-  The tool could not only further understanding about how (successful) email-scammers operate for future prevention,
-  but also allow investigators to intercept email scams already in progress.
+  The tool not only furthers understanding about how (successful) email-scammers operate for future prevention,
+  but also allows investigators to intercept email scams already in progress.
   </p>
   <p>
   Hope to get a more detailed post out about this project soon, but for now,
