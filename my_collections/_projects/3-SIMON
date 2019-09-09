@@ -17,8 +17,6 @@ description:
   Check out more of what they do <a href="https://www.simon.io" target="_blank">here</a>!]
   </p>
   <p>
-   As the company starts to scale and work with sensitive data (such as a buyer's personal information),
-   it becomes increasingly important to have a system to keep tabs on infrastructure and security changes.
    I worked on an automated alert system to send internal emails when it detects a security-related event change in
    the AWS cloud infrastructure. For example, the tool detects changes in public IPs, IAM policy rules, S3 bucket permissions,
    and user-write operations. The tool was written in AWS Lambda, with scalability and abstraction in mind
