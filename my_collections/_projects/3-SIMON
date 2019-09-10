@@ -8,8 +8,8 @@ skills:
 description:
   <p>
     <b>
-      Developed automated alert system to send internal emails when detecting a security-
-      related event change in the AWS cloud infrastructure.
+      Developed automated alert system to send internal emails when detecting a security-related
+      event change in AWS cloud infrastructure.
     </b>
   </p>
   <p>
@@ -19,9 +19,9 @@ description:
   </p>
   <p>
     In addition, I worked with representatives of cloud-management
-    platforms such as CloudCheckr and Cloud Conformity to evaluate and compare how
-    well their products monitor infrastructure and security. Ultimately, I was
-    asked to give a recommendation for which vendor SIMON should go with and start
-    integrating the cloud-management platform into SIMON's infrastructure.
+    platforms such as CloudCheckr and Cloud Conformity to integrate their platforms
+    into SIMON's infrastructure. During trial periods, I learned how to use their
+    products to evaluate and compare how
+    well they monitor infrastructure and security.
   </p>
 ---
