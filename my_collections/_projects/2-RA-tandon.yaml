@@ -9,23 +9,18 @@ skills:
 description:
   <q>Visualizing Conversation - Development of Analytical Tool to Mitigate Cyber Fraud</q>
   <p>
-  As part of the 2018 Undergraduate Summer Research program,
-  I worked on a data visualization project [with
-  <a href="http://enrico.bertini.io/" target="_blank">Prof. Enrico Bertini</a> and PhD candidate Jay Koven]
-  at the NYU Tandon School of Engineering in Brooklyn.
+  Created web visualization tool that displays the temporal patterns of emails between scammers and their network (of accomplices and targets).
   </p>
   <p>
-  In collaboration with a team of email security specialists, we were given a large (and sensitive) text-based corpus,
-  of emails between scammers and their targets. The project objective was to create a visualization that allows cyber-fraud investigators
-  to identify patterns in email-scamming activity.
+  The visualization tool helps cyber-fraud investigators identify patterns in email-scamming activity.
+  Understanding models of how successful email-scammers operate allows us to build more effective countermeasures for the future,
+  and even allows investigators to identify and intercept email scams already in progress.
   </p>
   <p>
-  With my team's help, I created a responsive web tool that displays the temporal sequence of emails between scammers and their network (of accomplices and targets).
-  The tool not only furthers understanding about how (successful) email-scammers operate for future prevention,
-  but also allows investigators to intercept email scams already in progress.
+  Special thanks to Data Viz Master <a href="http://enrico.bertini.io/" target="_blank">Prof. Enrico Bertini</a>, PhD mentor Jay Koven, and
+  the 2018 Summer Undergraduate Research program at NYU Tandon School of Engineering in Brooklyn for their support.
   </p>
   <p>
-  Hope to get a more detailed post out about this project soon, but for now,
-  check out the poster I presented on my summer project <a href="img/2018_SRP_poster.pdf" target="_blank">here</a>!
+  Check out the poster I presented on my summer project <a href="img/2018_SRP_poster.pdf" target="_blank">here</a>!
   </p>
 ---
