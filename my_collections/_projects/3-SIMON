@@ -7,8 +7,10 @@ skills:
   - Python
 description:
   <p>
-    Developed automated alert system to send internal emails when detecting a security-
-    related event change in the AWS cloud infrastructure.
+    <b>
+      Developed automated alert system to send internal emails when detecting a security-
+      related event change in the AWS cloud infrastructure.
+    </b>
   </p>
   <p>
     The tool detects changes in AWS resources like public IPs, IAM policy rules, S3 bucket permissions,

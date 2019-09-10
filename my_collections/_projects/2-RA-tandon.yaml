@@ -9,7 +9,9 @@ skills:
 description:
   <q>Visualizing Conversation - Development of Analytical Tool to Mitigate Cyber Fraud</q>
   <p>
-  Created web visualization tool that displays the temporal patterns of emails between scammers and their network (of accomplices and targets).
+    <b>
+      Created web visualization tool that displays the temporal patterns of emails between scammers and their network (of accomplices and targets).
+    </b>
   </p>
   <p>
   The visualization tool helps cyber-fraud investigators identify patterns in email-scamming activity.
