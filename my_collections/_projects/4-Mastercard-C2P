@@ -9,12 +9,15 @@ skills:
   - Spring Boot
 description:
   <p>
+    For the 1.5 years I've been at Mastercard, I've been working on a product called Click-To-Pay.
+  </p>
+  <p>
     Click-To-Pay is a secure online checkout solution based on the new EMV® Secure Remote Commerce (SRC) industry standard.
     Our team is establishing a simplified way for card payments to be made across web and mobile sites, mobile apps and connected devices.
   </p>
   <p>
     <b>
-      Implement new checkout features in large-scale API backend service and quality proof with unit testing, functional testing, and E2E testing.
+      Implementing new checkout features in large-scale API backend service and quality proof with unit testing, functional testing, and E2E testing.
     </b>
   </p>
   <p>
