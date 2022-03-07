@@ -1,0 +1,51 @@
+---
+title: Software Engineer @ Mastercard
+dates: 2020 Aug - present
+read_more_url:
+skills:
+  - Swift
+  - XCode
+  - Java
+  - Spring Boot
+description:
+  <p>
+    Click-To-Pay is a secure online checkout solution based on the new EMV® Secure Remote Commerce (SRC) industry standard.
+    Our team is establishing a simplified way for card payments to be made across web and mobile sites, mobile apps and connected devices.
+  </p>
+  <p>
+    <b>
+      Implement new checkout features in large-scale API backend service and quality proof with unit testing, functional testing, and E2E testing.
+    </b>
+  </p>
+  <p>
+    I'm currently a member of the backend team responsible for the final step in the Click-To-Pay process - the checkout.
+    We maintain is a critical orchestration layer service, based in Java and Spring Boot, which services over 800k transactions a week.
+  </p>
+  <p>
+    My day-to-day includes writing feature development code, as well as unit tests and functional tests. Before sprint-end, we test endpoints
+    using Postman to ensure flows are working end-to-end and demo our stories to the product owner for acceptance.
+    In addition to coding, I actively participate in Scrum meetings -- daily standups, story elaboration sessions, and retrospectives.
+  </p>
+  <p>
+    Since starting on this team, I've created a team-specific onboarding document to improve the onboarding experience and efficiency for newcomers.
+  </p>
+  <p>
+    <b>
+      Designed and developed next generation of iOS SDKs for mobile merchant integration of Click-To-Pay product.
+    </b>
+  </p>
+  <p>
+    Prior to being on the backend checkout team, I started my Click-To-Pay journey on the client side, working on the iOS SDK for
+    merchants to integrate Click-To-Pay seamlessly into their mobile apps.
+  </p>
+  <p>
+    Soon after starting on the mobile team, I quickly picked up Swift and XCode and was able to translate static designs into dynamic iOS interfaces.
+    After a couple months, our team was faced with the challenge of designing our next generation of mobile SDKs for merchants.
+    I took an active role in research and, building on the work the team previously did, eventually came up with a proof of concept app and approach that
+    our mobile team is utilizing in the next-gen Click-To-Pay iOS SDK.
+  </p>
+  <p>
+    In addition to becoming a point person for the next-gen iOS design, I added on meetings with other teams to facilitate cross-team
+    collaboration to build a more integrated solution together. I was promoted in an early cycle soon after.
+  </p>
+---
